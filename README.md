@@ -11,3 +11,4 @@ Data will consist of the average price for 5 minute intervals.
 * `fsw_2022.tar.gz` - the 2022 variant of [Fresh Start Worlds](https://oldschool.runescape.wiki/w/Fresh_Start_Worlds)
 * `deadman_apocalypse.tar.gz` - [Deadman Apocalypse](https://oldschool.runescape.wiki/w/Deadman:_Apocalypse)
 * `deadman_armageddon.tar.gz` - [Deadman Armageddon](https://oldschool.runescape.wiki/w/Deadman:_Armageddon)
+* `deadman_annihilation.tar.gz` - [Deadman Annihilation](https://oldschool.runescape.wiki/w/Deadman:_Annihilation)
